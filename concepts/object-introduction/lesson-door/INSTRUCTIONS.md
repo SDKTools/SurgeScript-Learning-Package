@@ -1,4 +1,5 @@
 # Door
+Each object has a state, it starts on state "main", but you can change it
 
 To switch state just run the code `state = <new_state>`. 
 To wait time use the function `timeout(<seconds>)`. 

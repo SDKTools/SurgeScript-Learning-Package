@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 set LINE=0
 
-for /f "delims=" %%A in ('..\..\..\surgescript\surgescript.exe script.ss') do (
+for /f "delims=" %%A in ('../../../surgescript/surgescript.exe script.ss') do (
     set /a LINE+=1
     set LINE!LINE!=%%A
 )
