@@ -1,7 +1,7 @@
 # SurgeScript-Learning-Package
 <img src="logo.png" height="256px"/>
 
-[![Build Status](https://img.shields.io/badge/license-Apache%202.0-green)](https://travis-ci.org/zold-io/zold)
+[![Build Status](https://img.shields.io/badge/license-Apache%202.0-green)]
 
 **The SurgeScript Not Official Learning Package** is a [learning package](https://en.wikipedia.org/wiki/Educational_software)
 made for make more easier for people to make retro games based on [Open Surge](https://opensurge2d.org/), 
